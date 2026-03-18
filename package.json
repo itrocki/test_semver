@@ -1,0 +1,11 @@
+{
+  "name": "excel-project",
+  "version": "1.0.0",
+  "description": "A project using exceljs for spreadsheet manipulation",
+  "main": "index.js",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
